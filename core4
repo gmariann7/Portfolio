@@ -47,16 +47,16 @@
         <!-- Fill in the row for Variables -->
         <tr>
         <td><b>Variables</b></td>
-          <td>  </td>
-          <td>  </td>
-          <td>  </td>
+          <td> A variable is a storage location paired with a symbolic name that contains an unknown or known variable. </td>
+          <td> A credit card </td>
+          <td> lucky = 7 print (lucky) 7 </td>
           <td>  </td>
         </tr>
 
         <!-- Fill in the row for Loops -->
         <tr>
           <td><b>Loops</b></td>
-          <td>  </td>
+          <td> a programmed sequence of instructions that is repeated until or while a particular condition is satisfied </td>
           <td>  </td>
           <td>  </td>
           <td>  </td>
@@ -65,7 +65,7 @@
         <!-- Fill in the row for Conditionals -->
         <tr>
           <td><b>Conditionals</b></td>
-          <td>  </td>
+          <td> a computational expression that performs different actions based on whether it's true or false. </td>
           <td>  </td>
           <td>  </td>
           <td>  </td>
@@ -74,8 +74,8 @@
         <!-- Fill in the row for Functions -->
         <tr>
           <td><b>Functions</b></td>
-          <td>  </td>
-          <td>  </td>
+          <td> a type of procedure or routine </td>
+          <td> getting ready in the morning </td>
           <td>  </td>
           <td>  </td>
         </tr>
